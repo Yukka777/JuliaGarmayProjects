@@ -8,3 +8,4 @@ public class index {
         System.out.println("Индекс массы тела = "+name+" : "+c);
 }}
 
+//изменение
